@@ -1,7 +1,7 @@
 {
     "LastOpenStyle":"Classic",
     "Scale":0.716978,
-    "PosX":1512.549934,
+    "PosX":1177.344395,
     "Prefabs":{},
     "GraphName":"Graph",
     "Variables":{},
@@ -940,7 +940,7 @@
         ]
     },
     "BindingPartName":"ExplosionArrowBlueprintPart",
-    "PosY":572.658902,
+    "PosY":715.878911,
     "Type":"StorylineDoc",
     "Interfaces":{}
 }

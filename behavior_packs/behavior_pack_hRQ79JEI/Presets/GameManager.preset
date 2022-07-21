@@ -27,7 +27,7 @@
         },
         {
             "changes": {
-                "clockEndTime": 20,
+                "clockEndTime": 8400,
                 "restartGameFlag": false
             },
             "classType": "PartInstance",
