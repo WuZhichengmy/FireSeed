@@ -1,0 +1,110 @@
+{
+    "behaviorAttrs": {
+        "SetBlockControlAi": true,
+        "SetImmuneDamage": false,
+        "SetPersistence": true
+    },
+    "boxDataList": [],
+    "childParts": [],
+    "childPresets": [],
+    "classType": "EntityPreset",
+    "engineTypeStr": "monster:zombie4",
+    "entityAttrs": {
+        "SetDamageValue": 6.0,
+        "SetHealthValue": 30.0,
+        "SetLavaSpeedValue": 0.2,
+        "SetSpeedValue": 0.28
+    },
+    "forceLoad": false,
+    "name": "zombie4",
+    "oxygenAttrs": {
+        "SetAirSeconds": 15,
+        "SetRecoverTotalAirSupplyTime": 0.0
+    },
+    "physicsAttrs": {
+        "SetGravity": 0.0,
+        "SetPushable": true
+    },
+    "preLoad": false,
+    "presetId": "2163d50d-0ffc-492b-9f9a-3e40627c9f5b",
+    "previewEnable": true,
+    "renderAttrs": {
+        "SetNotRender": false
+    },
+    "singleton": false,
+    "stateAndItemAttrs": {
+        "AddEffect": [],
+        "SetItemInfo": [
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": {
+                        "auxValue": 0,
+                        "itemName": "minecraft:chainmail_helmet"
+                    }
+                },
+                "posType": 3,
+                "slotPos": 0
+            },
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": {
+                        "auxValue": 0,
+                        "itemName": "minecraft:chainmail_chestplate"
+                    }
+                },
+                "posType": 3,
+                "slotPos": 1
+            },
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": {
+                        "auxValue": 0,
+                        "itemName": "minecraft:chainmail_leggings"
+                    }
+                },
+                "posType": 3,
+                "slotPos": 2
+            },
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": {
+                        "auxValue": 0,
+                        "itemName": "minecraft:chainmail_boots"
+                    }
+                },
+                "posType": 3,
+                "slotPos": 3
+            },
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": {
+                        "auxValue": 0,
+                        "itemName": "minecraft:stone_sword"
+                    }
+                },
+                "posType": 2,
+                "slotPos": -1
+            }
+        ]
+    },
+    "templateId": "",
+    "unique": false,
+    "updateRotationInterval": 0,
+    "updateScaleInterval": 0,
+    "updateTransformInterval": 2
+}

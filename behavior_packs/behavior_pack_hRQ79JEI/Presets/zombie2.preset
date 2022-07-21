@@ -1,0 +1,44 @@
+{
+    "behaviorAttrs": {
+        "SetBlockControlAi": true,
+        "SetImmuneDamage": false,
+        "SetPersistence": true
+    },
+    "boxDataList": [],
+    "childParts": [],
+    "childPresets": [],
+    "classType": "EntityPreset",
+    "engineTypeStr": "monster:zombie2",
+    "entityAttrs": {
+        "SetDamageValue": 4.0,
+        "SetHealthValue": 25.0,
+        "SetLavaSpeedValue": 0.2,
+        "SetSpeedValue": 0.25
+    },
+    "forceLoad": false,
+    "name": "zombie2",
+    "oxygenAttrs": {
+        "SetAirSeconds": 15,
+        "SetRecoverTotalAirSupplyTime": 0.0
+    },
+    "physicsAttrs": {
+        "SetGravity": 0.0,
+        "SetPushable": true
+    },
+    "preLoad": false,
+    "presetId": "52af1885-f7cc-48d5-b2ed-33bd6abc8c42",
+    "previewEnable": true,
+    "renderAttrs": {
+        "SetNotRender": false
+    },
+    "singleton": false,
+    "stateAndItemAttrs": {
+        "AddEffect": [],
+        "SetItemInfo": []
+    },
+    "templateId": "",
+    "unique": false,
+    "updateRotationInterval": 0,
+    "updateScaleInterval": 0,
+    "updateTransformInterval": 2
+}

@@ -1,0 +1,14 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "add1:potion_goldeneye",
+            "minecraft:use_animation": "drink"
+        },
+        "description": {
+            "category": "Items",
+            "identifier": "add1:potion_goldeneye",
+            "register_to_create_menu": true
+        }
+    }
+}

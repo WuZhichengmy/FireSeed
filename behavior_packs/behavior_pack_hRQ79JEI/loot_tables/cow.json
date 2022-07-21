@@ -1,0 +1,23 @@
+{
+    "pools": [
+        {
+            "entries": [
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 5,
+                                "min": 5
+                            },
+                            "function": "set_count"
+                        }
+                    ],
+                    "name": "minecraft:beef",
+                    "type": "item",
+                    "weight": 1
+                }
+            ],
+            "rolls": 5
+        }
+    ]
+}

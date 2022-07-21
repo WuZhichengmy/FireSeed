@@ -1,0 +1,55 @@
+{
+    "behaviorAttrs": {
+        "SetBlockControlAi": true,
+        "SetImmuneDamage": false,
+        "SetPersistence": true
+    },
+    "boxDataList": [],
+    "childParts": [],
+    "childPresets": [],
+    "classType": "EntityPreset",
+    "engineTypeStr": "ohcri:cow",
+    "entityAttrs": {
+        "SetDamageValue": -1e-07,
+        "SetHealthValue": -1e-07,
+        "SetLavaSpeedValue": -1e-07,
+        "SetSpeedValue": -1e-07
+    },
+    "forceLoad": false,
+    "name": "niuniu",
+    "oxygenAttrs": {
+        "SetAirSeconds": 15,
+        "SetRecoverTotalAirSupplyTime": 0.0
+    },
+    "physicsAttrs": {
+        "SetGravity": 0.0,
+        "SetPushable": true
+    },
+    "preLoad": false,
+    "presetId": "96065e3a-e93c-4e16-a43c-23684822d183",
+    "previewEnable": true,
+    "renderAttrs": {
+        "SetNotRender": false
+    },
+    "singleton": false,
+    "stateAndItemAttrs": {
+        "AddEffect": [],
+        "SetItemInfo": [
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": null
+                },
+                "posType": 0,
+                "slotPos": -1
+            }
+        ]
+    },
+    "templateId": "",
+    "unique": false,
+    "updateRotationInterval": 0,
+    "updateScaleInterval": 0,
+    "updateTransformInterval": 2
+}

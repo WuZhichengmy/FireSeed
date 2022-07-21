@@ -1,0 +1,37 @@
+{
+    "format_version": [
+        1,
+        1,
+        0
+    ],
+    "vtymy:damageblock": {
+        "textures": {
+            "down": "aaabq:brah",
+            "east": "aaabq:brah",
+            "north": "aaabq:brah",
+            "south": "aaabq:brah",
+            "up": "vtymy:damageblock",
+            "west": "aaabq:brah"
+        }
+    },
+    "vtymy:explosionblock": {
+        "textures": {
+            "down": "aaabq:brah",
+            "east": "aaabq:brah",
+            "north": "aaabq:brah",
+            "south": "aaabq:brah",
+            "up": "vtymy:explosionblock",
+            "west": "aaabq:brah"
+        }
+    },
+    "vtymy:setfireblock": {
+        "textures": {
+            "down": "aaabq:brah",
+            "east": "aaabq:brah",
+            "north": "aaabq:brah",
+            "south": "aaabq:brah",
+            "up": "vtymy:fireblock",
+            "west": "aaabq:brah"
+        }
+    }
+}

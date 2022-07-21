@@ -1,0 +1,10 @@
+{
+    "ui_defs": [
+        "ui/endLogicUI.json",
+        "ui/map.json",
+        "ui/startLogicUI.json",
+        "ui/ui1.json",
+        "ui/UIMiniMap.json",
+        "ui/netease_editor_template_namespace.json"
+    ]
+}

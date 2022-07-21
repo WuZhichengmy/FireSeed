@@ -1,0 +1,23 @@
+{
+    "boxDataList": [],
+    "childParts": [
+        {
+            "bpType": "FireBlueprintPart",
+            "changes": {},
+            "classType": "PartInstance",
+            "customVariables": [],
+            "directoryPath": "FireBlueprint",
+            "metaType": "FireBlueprintPartMeta",
+            "partType": "FireBlueprintPart"
+        }
+    ],
+    "childPresets": [],
+    "classType": "PresetBase",
+    "forceLoad": true,
+    "name": "FireBlock",
+    "preLoad": true,
+    "presetId": "0943bb5c-2ab3-4274-826e-2063af9255c7",
+    "previewEnable": true,
+    "singleton": false,
+    "unique": false
+}

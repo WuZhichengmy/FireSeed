@@ -1,0 +1,110 @@
+{
+    "behaviorAttrs": {
+        "SetBlockControlAi": true,
+        "SetImmuneDamage": false,
+        "SetPersistence": true
+    },
+    "boxDataList": [],
+    "childParts": [],
+    "childPresets": [],
+    "classType": "EntityPreset",
+    "engineTypeStr": "monster:zombie5",
+    "entityAttrs": {
+        "SetDamageValue": 7.0,
+        "SetHealthValue": 30.0,
+        "SetLavaSpeedValue": 0.25,
+        "SetSpeedValue": 0.3
+    },
+    "forceLoad": false,
+    "name": "zombie5",
+    "oxygenAttrs": {
+        "SetAirSeconds": 15,
+        "SetRecoverTotalAirSupplyTime": 0.0
+    },
+    "physicsAttrs": {
+        "SetGravity": 0.0,
+        "SetPushable": true
+    },
+    "preLoad": false,
+    "presetId": "1a88ef08-99fa-4082-8701-69b4954cdaef",
+    "previewEnable": true,
+    "renderAttrs": {
+        "SetNotRender": false
+    },
+    "singleton": false,
+    "stateAndItemAttrs": {
+        "AddEffect": [],
+        "SetItemInfo": [
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": {
+                        "auxValue": 0,
+                        "itemName": "minecraft:iron_helmet"
+                    }
+                },
+                "posType": 3,
+                "slotPos": 0
+            },
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": {
+                        "auxValue": 0,
+                        "itemName": "minecraft:iron_chestplate"
+                    }
+                },
+                "posType": 3,
+                "slotPos": 1
+            },
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": {
+                        "auxValue": 0,
+                        "itemName": "minecraft:iron_leggings"
+                    }
+                },
+                "posType": 3,
+                "slotPos": 2
+            },
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": {
+                        "auxValue": 0,
+                        "itemName": "minecraft:iron_boots"
+                    }
+                },
+                "posType": 3,
+                "slotPos": 3
+            },
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": {
+                        "auxValue": 0,
+                        "itemName": "minecraft:iron_sword"
+                    }
+                },
+                "posType": 2,
+                "slotPos": -1
+            }
+        ]
+    },
+    "templateId": "",
+    "unique": false,
+    "updateRotationInterval": 0,
+    "updateScaleInterval": 0,
+    "updateTransformInterval": 2
+}

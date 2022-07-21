@@ -1,0 +1,23 @@
+{
+    "boxDataList": [],
+    "childParts": [
+        {
+            "bpType": "DamageBlueprintPart",
+            "changes": {},
+            "classType": "PartInstance",
+            "customVariables": [],
+            "directoryPath": "DamageBlueprint",
+            "metaType": "DamageBlueprintPartMeta",
+            "partType": "DamageBlueprintPart"
+        }
+    ],
+    "childPresets": [],
+    "classType": "PresetBase",
+    "forceLoad": true,
+    "name": "DamageBlock",
+    "preLoad": true,
+    "presetId": "02e82e56-d840-49b5-b579-e8c9dde1598c",
+    "previewEnable": true,
+    "singleton": false,
+    "unique": false
+}

@@ -1,0 +1,9 @@
+{
+    "bpType": "ExplosionBluePrintPart",
+    "changes": {},
+    "classType": "PartInstance",
+    "customVariables": [],
+    "directoryPath": "ExplosionBluePrint",
+    "metaType": "ExplosionBluePrintPartMeta",
+    "partType": "ExplosionBluePrintPart"
+}

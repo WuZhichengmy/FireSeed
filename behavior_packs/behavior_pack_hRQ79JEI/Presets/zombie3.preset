@@ -1,0 +1,110 @@
+{
+    "behaviorAttrs": {
+        "SetBlockControlAi": true,
+        "SetImmuneDamage": false,
+        "SetPersistence": true
+    },
+    "boxDataList": [],
+    "childParts": [],
+    "childPresets": [],
+    "classType": "EntityPreset",
+    "engineTypeStr": "monster:zombie3",
+    "entityAttrs": {
+        "SetDamageValue": 5.0,
+        "SetHealthValue": 25.0,
+        "SetLavaSpeedValue": 0.2,
+        "SetSpeedValue": 0.26
+    },
+    "forceLoad": false,
+    "name": "zombie3",
+    "oxygenAttrs": {
+        "SetAirSeconds": 15,
+        "SetRecoverTotalAirSupplyTime": 0.0
+    },
+    "physicsAttrs": {
+        "SetGravity": 0.0,
+        "SetPushable": true
+    },
+    "preLoad": false,
+    "presetId": "89658e13-c782-4b5f-bfde-7d01c3339cfe",
+    "previewEnable": true,
+    "renderAttrs": {
+        "SetNotRender": false
+    },
+    "singleton": false,
+    "stateAndItemAttrs": {
+        "AddEffect": [],
+        "SetItemInfo": [
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": {
+                        "auxValue": 0,
+                        "itemName": "minecraft:leather_helmet"
+                    }
+                },
+                "posType": 3,
+                "slotPos": 0
+            },
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": {
+                        "auxValue": 0,
+                        "itemName": "minecraft:leather_chestplate"
+                    }
+                },
+                "posType": 3,
+                "slotPos": 1
+            },
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": {
+                        "auxValue": 0,
+                        "itemName": "minecraft:leather_leggings"
+                    }
+                },
+                "posType": 3,
+                "slotPos": 2
+            },
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": {
+                        "auxValue": 0,
+                        "itemName": "minecraft:leather_boots"
+                    }
+                },
+                "posType": 0,
+                "slotPos": 3
+            },
+            {
+                "itemDict": {
+                    "count": 1,
+                    "customTips": "",
+                    "enchantData": [],
+                    "itemInfo": {
+                        "auxValue": 0,
+                        "itemName": "minecraft:wooden_sword"
+                    }
+                },
+                "posType": 2,
+                "slotPos": -1
+            }
+        ]
+    },
+    "templateId": "",
+    "unique": false,
+    "updateRotationInterval": 0,
+    "updateScaleInterval": 0,
+    "updateTransformInterval": 2
+}

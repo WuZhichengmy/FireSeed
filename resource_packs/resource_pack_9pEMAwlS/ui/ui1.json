@@ -1,0 +1,73 @@
+{
+   "main" : {
+      "controls" : [
+         {
+            "panel@ui1.text_panel" : {
+               "$font_size" : "normal",
+               "$label_text" : "末日来临，唯一可能拯救人类的科研资料现保存在你所在的“光明城”内，但“光明城”周围已经全部被丧尸占领，城内物资岌岌可危。\n七天之后救援部队才会前来支援，为保护好科研资料，“火种计划”现全面开启。\n坚毅勇敢的勇士们，请握紧你们手中的剑，守卫“光明城”度过这危险艰难的七天吧！\n",
+               "$line_space" : 6,
+               "offset" : [ 1.0, 0.0 ],
+               "visible" : false
+            }
+         }
+      ],
+      "type" : "screen"
+   },
+   "namespace" : "ui1",
+   "screen" : {
+      "controls" : [],
+      "type" : "screen"
+   },
+   "text_panel" : {
+      "$font_size" : "large",
+      "$label_text" : "你好！",
+      "$line_space" : 0,
+      "$panel_size" : [ 200, 150 ],
+      "$panel_size|default" : [ 0, 0 ],
+      "$text_align" : "left",
+      "$text_color" : [ 1, 1, 1 ],
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "clip_offset" : [ 0, 0 ],
+      "clips_children" : false,
+      "controls" : [
+         {
+            "main_panel_no_buttons(0)@common_dialogs.main_panel_no_buttons" : {}
+         },
+         {
+            "label" : {
+               "$font_size|default" : "normal",
+               "$label_text|default" : "",
+               "$line_space|default" : 0,
+               "$text_align|default" : "center",
+               "$text_color|default" : [ 1, 1, 1 ],
+               "anchor_from" : "bottom_middle",
+               "anchor_to" : "bottom_middle",
+               "color" : "$text_color",
+               "font_size" : "$font_size",
+               "font_type" : "smooth",
+               "layer" : 1,
+               "line_padding" : "$line_space",
+               "max_size" : [ 0, 0 ],
+               "min_size" : [ 0, 0 ],
+               "offset" : [ 0, "-5.0%+0.0px" ],
+               "size" : [ "90.0%+0.0px", "80.0%+0.0px" ],
+               "text" : "$label_text",
+               "text_alignment" : "$text_align",
+               "type" : "label"
+            }
+         }
+      ],
+      "enabled" : true,
+      "layer" : 1,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "offset" : [ 0, 0 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "size" : "$panel_size",
+      "type" : "panel",
+      "visible" : true
+   }
+}

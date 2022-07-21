@@ -1,0 +1,30 @@
+{
+    "autoCreate": true,
+    "bindParentAutoScale": false,
+    "bindParentOffset": [
+        0,
+        0,
+        0
+    ],
+    "boxDataList": [],
+    "childParts": [],
+    "childPresets": [],
+    "classType": "UIPreset",
+    "createUIMethod": "CreateUI",
+    "forceLoad": false,
+    "isBindParent": false,
+    "isHud": true,
+    "mNode": null,
+    "name": "UI1",
+    "preLoad": true,
+    "presetId": "2cd9ba5e-0dd2-4239-9024-36e8de946311",
+    "previewEnable": true,
+    "showInEditor": true,
+    "singleton": false,
+    "uiName": "UI1",
+    "uiNamespace": "nqpuv",
+    "uiNodeModule": "NeteaseScreenNode0",
+    "uiNodeModulePath": "Script_NeteaseModXSOgqRHv\\uiScript\\NeteaseScreenNode0",
+    "uiNodeScreen": "ui1.main",
+    "unique": false
+}

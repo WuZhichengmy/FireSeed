@@ -1,0 +1,17 @@
+{
+    "Arena.Component.Namespace": "slicd",
+    "FirstTabSetting": 0,
+    "ShortItemSettings": [
+        "resource_packs\\resource_pack_9pEMAwlS\\ui",
+        "behavior_packs\\behavior_pack_hRQ79JEI\\Presets",
+        "behavior_packs\\behavior_pack_hRQ79JEI\\Parts",
+        "behavior_packs\\behavior_pack_hRQ79JEI\\BoxData",
+        "resource_packs\\resource_pack_9pEMAwlS\\effects",
+        "resource_packs\\resource_pack_9pEMAwlS\\models",
+        "resource_packs\\resource_pack_9pEMAwlS\\textures"
+    ],
+    "Uluru.autoLayerDict": {
+
+    },
+    "Uluru.checkSuspectOldUI": true
+}

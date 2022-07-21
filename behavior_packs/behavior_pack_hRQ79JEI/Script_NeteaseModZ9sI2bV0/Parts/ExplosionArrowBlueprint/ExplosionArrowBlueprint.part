@@ -1,0 +1,9 @@
+{
+    "bpType": "ExplosionArrowBlueprintPart",
+    "changes": {},
+    "classType": "PartInstance",
+    "customVariables": [],
+    "directoryPath": "ExplosionArrowBlueprint",
+    "metaType": "ExplosionArrowBlueprintPartMeta",
+    "partType": "ExplosionArrowBlueprintPart"
+}

@@ -1,0 +1,18 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "aaabq:brah": {
+            "textures": "textures/blocks/brah"
+        },
+        "vtymy:damageblock": {
+            "textures": "textures/blocks/damageblock"
+        },
+        "vtymy:explosionblock": {
+            "textures": "textures/blocks/explosionblock"
+        },
+        "vtymy:fireblock": {
+            "textures": "textures/blocks/fireblock"
+        }
+    },
+    "texture_name": "atlas.terrain"
+}

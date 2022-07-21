@@ -1,0 +1,49 @@
+{
+    "boxDataList": [],
+    "childParts": [
+        {
+            "changes": {
+                "randomPointList[0].pos": [
+                    130.0,
+                    70.0,
+                    -52.0
+                ],
+                "randomPointList[1].pos": [
+                    130.0,
+                    70.0,
+                    -52.0
+                ],
+                "randomPointList[2].pos": [
+                    130.0,
+                    70.0,
+                    -52.0
+                ]
+            },
+            "classType": "PartInstance",
+            "customVariables": [],
+            "directoryPath": "StartLogic",
+            "metaType": "StartLogicPartMeta",
+            "partType": "StartLogicPart"
+        },
+        {
+            "changes": {
+                "clockEndTime": 20,
+                "restartGameFlag": false
+            },
+            "classType": "PartInstance",
+            "customVariables": [],
+            "directoryPath": "EndLogic",
+            "metaType": "EndLogicPartMeta",
+            "partType": "EndLogicPart"
+        }
+    ],
+    "childPresets": [],
+    "classType": "PresetBase",
+    "forceLoad": true,
+    "name": "GameManager",
+    "preLoad": true,
+    "presetId": "49305a95-574e-4405-8e84-61ecea7b500d",
+    "previewEnable": true,
+    "singleton": false,
+    "unique": false
+}

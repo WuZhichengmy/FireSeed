@@ -1,0 +1,9 @@
+{
+    "bpType": "DamageBlueprintPart",
+    "changes": {},
+    "classType": "PartInstance",
+    "customVariables": [],
+    "directoryPath": "DamageBlueprint",
+    "metaType": "DamageBlueprintPartMeta",
+    "partType": "DamageBlueprintPart"
+}

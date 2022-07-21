@@ -1,0 +1,48 @@
+{
+    "Account": "525898@163.com",
+    "AssertCacheDir": "D:\\MCStudioDownload\\EngineAssert",
+    "BlockNums": [
+        0,
+        0
+    ],
+    "BornPoint": [
+        0,
+        0,
+        0
+    ],
+    "CreateNew": false,
+    "CreateVersion": "2.1.0.60416",
+    "DCWebUrl": "https://x19apigatewaytest.nie.netease.com",
+    "EditAddOnPaths": [
+
+    ],
+    "EditLogFilePath": "D:\\MCStudioDownload\\work\\editor\\edit.log",
+    "EditMaterialPaths": [
+
+    ],
+    "EditName": "测试718",
+    "EditType": 2,
+    "EditVersion": "2.2.0.88272",
+    "EditorResourcePackPath": "D:\\Software\\minecraft\\MCStudio\\data\\inner_res",
+    "ElkUrl": "https://x19mclexpr.nie.netease.com/client-log",
+    "GameType": 1,
+    "Id": "8082b16238644f13a31c7a2aa89e7884",
+    "IsMap": true,
+    "NewEditCount": 38,
+    "OldComponents": [
+
+    ],
+    "OldEditCount": 0,
+    "SaveBackAddOnPath": "",
+    "SaveBackMapPath": "D:\\MCStudioDownload\\work\\525898@163.com\\Cpp\\Map\\8082b16238644f13a31c7a2aa89e7884",
+    "Seed": "2461667746",
+    "ServerName": "EXPR",
+    "ShowGpuDriverTips": false,
+    "ShowGuide": false,
+    "Source": "import",
+    "StudioPort": 11859,
+    "StudioTempPath": "D:\\MCStudioDownload\\temp\\editorTemp",
+    "UserId": "84868",
+    "UserName": "qxyp",
+    "WorldType": 0
+}

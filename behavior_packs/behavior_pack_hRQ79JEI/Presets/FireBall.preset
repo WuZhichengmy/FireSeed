@@ -1,0 +1,23 @@
+{
+    "boxDataList": [],
+    "childParts": [
+        {
+            "bpType": "ExplosionArrowBlueprintPart",
+            "changes": {},
+            "classType": "PartInstance",
+            "customVariables": [],
+            "directoryPath": "ExplosionArrowBlueprint",
+            "metaType": "ExplosionArrowBlueprintPartMeta",
+            "partType": "ExplosionArrowBlueprintPart"
+        }
+    ],
+    "childPresets": [],
+    "classType": "PresetBase",
+    "forceLoad": true,
+    "name": "FireBall",
+    "preLoad": true,
+    "presetId": "b12d057e-58bc-4bd0-9fd1-68cab7da54ae",
+    "previewEnable": true,
+    "singleton": false,
+    "unique": false
+}

@@ -1,0 +1,27 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "add1:potion_goldeneye": {
+            "textures": "textures/items/黄金眼药水"
+        },
+        "ohcri:CowEgg": {
+            "textures": "textures/items/apple"
+        },
+        "ohcri:PigEge": {
+            "textures": "textures/items/211042IfqZ0DxVIqrEnV1J"
+        },
+        "ohcri:potionSpeed": {
+            "textures": "textures/items/健步如飞药水"
+        },
+        "ohcri:potion_defense": {
+            "textures": "textures/items/坚如磐石药水"
+        },
+        "ohcri:potion_hp": {
+            "textures": "textures/items/生命源泉药水"
+        },
+        "ohcri:potion_power": {
+            "textures": "textures/items/力大如牛药水"
+        }
+    },
+    "texture_name": "atlas.items"
+}

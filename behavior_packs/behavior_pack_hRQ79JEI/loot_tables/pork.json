@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "entries": [
+                {
+                    "functions": [
+                        {
+                            "count": 5,
+                            "function": "set_count"
+                        }
+                    ],
+                    "name": "minecraft:porkchop",
+                    "type": "item",
+                    "weight": 1
+                }
+            ],
+            "rolls": 5
+        }
+    ]
+}

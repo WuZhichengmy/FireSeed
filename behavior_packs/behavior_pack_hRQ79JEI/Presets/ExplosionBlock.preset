@@ -1,0 +1,23 @@
+{
+    "boxDataList": [],
+    "childParts": [
+        {
+            "bpType": "ExplosionBluePrintPart",
+            "changes": {},
+            "classType": "PartInstance",
+            "customVariables": [],
+            "directoryPath": "ExplosionBluePrint",
+            "metaType": "ExplosionBluePrintPartMeta",
+            "partType": "ExplosionBluePrintPart"
+        }
+    ],
+    "childPresets": [],
+    "classType": "PresetBase",
+    "forceLoad": true,
+    "name": "ExplosionBlock",
+    "preLoad": true,
+    "presetId": "6180f4d8-4e00-4100-b91d-e0ae9c481380",
+    "previewEnable": true,
+    "singleton": false,
+    "unique": false
+}

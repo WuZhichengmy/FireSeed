@@ -1,0 +1,99 @@
+{
+    "pools": [
+        {
+            "entries": [
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "ohcri:potion_power",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "ohcri:potionSpeed",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "ohcri:potion_defense",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "ohcri:potion_hp",
+                    "type": "item",
+                    "weight": 1
+                },
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1,
+                                "min": 1
+                            },
+                            "function": "set_count"
+                        },
+                        {
+                            "data": 0,
+                            "function": "set_data"
+                        }
+                    ],
+                    "name": "vtymy:explosionblock",
+                    "type": "item",
+                    "weight": 1
+                }
+            ],
+            "rolls": 1
+        }
+    ]
+}

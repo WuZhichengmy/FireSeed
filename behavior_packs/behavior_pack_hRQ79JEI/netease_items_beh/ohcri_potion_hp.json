@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:foil": true,
+            "minecraft:food": {
+                "can_always_eat": true,
+                "effects": [
+                    {
+                        "amplifier": 10,
+                        "chance": 1.0,
+                        "duration": 1,
+                        "name": "instant_health"
+                    }
+                ],
+                "nutrition": 0,
+                "using_converts_to": "minecraft:glass_bottle"
+            },
+            "minecraft:max_stack_size": 2,
+            "minecraft:use_duration": 20.0
+        },
+        "description": {
+            "category": "Items",
+            "identifier": "ohcri:potion_hp",
+            "register_to_create_menu": true
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "ohcri:CowEgg",
+            "minecraft:use_animation": "camera"
+        },
+        "description": {
+            "category": "Items",
+            "identifier": "ohcri:CowEgg",
+            "register_to_create_menu": true
+        }
+    }
+}
